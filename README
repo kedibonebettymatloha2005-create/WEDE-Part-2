@@ -1,0 +1,60 @@
+Lux Hair - Wear Your Crown
+
+About the Website
+
+Lux Hair is an online hair shopping website designed to provide customers with a convenient and trustworthy way to explore and purchase quality hair products.
+
+The website showcases different hair styles and products, including Body Wave, Deep Wave, Straight and Curly hair.
+
+Website Purpose
+
+The purpose of the Lux Hair website is to:
+
+- Showcase available hair products
+- Provide customers with information about the products
+- Create an easy-to-use online shopping experience
+- Allow customers to make enquiries
+- Present the business in a professional way
+
+Website Features
+
+- Home page
+- Product collection
+- Contact/Enquiry page
+- Product images
+- Navigation menu
+- Responsive design for different screen sizes
+- Interactive links and buttons using CSS pseudo-classes
+- Mobile-friendly layout
+
+Technologies Used
+Visual studio Codes
+- HTML5
+- CSS3
+- Responsive design and media queries
+- GitHub Pages
+
+Website Structure
+
+WEDE-Part-2
+│
+├── index.html
+├── styles.css
+└── Assets
+    ├── Image
+    ├── Product.html
+    └── Contact us.html 
+
+References
+
+HTML and CSS
+
+MDN Web Docs. HTML: HyperText Markup Language.  
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+MDN Web Docs. CSS: Cascading Style Sheets.  
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+MDN Web Docs. CSS Media Queries.  
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries
+
